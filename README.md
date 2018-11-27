@@ -1,5 +1,7 @@
 # unergia
 
+## Not updated now, moved [here](https://github.com/TeamUnergia/unergia_react)
+
 ### Steps to run
 * Clone the repository
 ``` bash
